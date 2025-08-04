@@ -1,0 +1,62 @@
+{
+  "materials": {
+    "godeye2": {
+      "path": "assets/materials/materials/godeye2.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        }
+      }
+    },
+    "skyps": {
+      "path": "assets/materials/materials/skyps.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        }
+      }
+    },
+    "texturescom_nature_moss_header": {
+      "path": "assets/materials/materials/texturescom_nature_moss_header.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        }
+      }
+    },
+    "way": {
+      "path": "assets/materials/materials/way.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "ball": "assets/prefabs/ball.prefab",
+    "eyes": "assets/prefabs/eyes.prefab",
+    "liminal": "assets/prefabs/liminal.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/Epic1/BSManager/BSInstances/1.39.1/Beat Saber_Data/CustomWIPLevels/Warm Nights/bundleWindows2019.vivify",
+    "C:/Users/Epic1/BSManager/BSInstances/1.39.1/Beat Saber_Data/CustomWIPLevels/Warm Nights/bundleWindows2021.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2019": 2243156523,
+    "_windows2021": 526470163
+  },
+  "isCompressed": true
+}
